@@ -1,4 +1,5 @@
 function main () {
+    //Инструкция https://docs.google.com/document/d/13v13gHWnVPYd0r7p-4Wqm9Q8Q3tFWiy6zecl7HRsbYk
     var email = '', // Указываем почту для уведомлений (если несколько почт,то в кавычках указываем их через запятую!
         maxBudgetInDay = 20,// Значение максимальных расходов в день (Указываем своё)
         maxBudgetInWeek = 900, // Значение максимальных расходов в неделю (Указываем своё)

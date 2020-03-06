@@ -45,6 +45,7 @@
  */
 
 var CONFIG = {
+    // Инструкция https://docs.google.com/document/d/13v13gHWnVPYd0r7p-4Wqm9Q8Q3tFWiy6zecl7HRsbYk
     // URL of the spreadsheet template.
     // Копируете содержимое данной таблицы https://docs.google.com/spreadsheets/d/1iO1iEGwlbe510qo3Li-j4KgyCeVSmodxU6J7M756ppk/ .Далее создавйте новую,вставьте содержимое текущей,удалите всё из вкладки Results,скопируйте ссылку новой таблицы и вставьте её ниже добавив в конце URL /copy
     SPREADSHEET_URL: 'https://docs.google.com/spreadsheets/d/1sQr8_HVYE6gXZ296S6Ag3S_AYpE7HI4NlrRvZy2zjC0/copy',
